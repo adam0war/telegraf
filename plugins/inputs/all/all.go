@@ -172,4 +172,6 @@ import (
 	_ "github.com/adam0war/telegraf/plugins/inputs/zfs"
 	_ "github.com/adam0war/telegraf/plugins/inputs/zipkin"
 	_ "github.com/adam0war/telegraf/plugins/inputs/zookeeper"
+	_ "github.com/adam0war/telegraf/plugins/inputs/oracle"
 )
+
